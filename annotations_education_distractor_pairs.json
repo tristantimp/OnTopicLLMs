@@ -1,0 +1,123 @@
+[
+  {
+    "entry_idx": 480,
+    "pair_idx": 0,
+    "role": "user",
+    "content": "I'm having trouble logging into the platform. Can you help me reset my password?",
+    "label": "ontopic",
+    "type": "NA",
+    "difficulty": "NA",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 480,
+    "pair_idx": 1,
+    "role": "user",
+    "content": "I forgot my username. Can you help me retrieve it?",
+    "label": "ontopic",
+    "type": "NA",
+    "difficulty": "NA",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 480,
+    "pair_idx": 2,
+    "role": "user",
+    "content": "Do you offer any courses on data science?",
+    "label": "ontopic",
+    "type": "NA",
+    "difficulty": "NA",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 480,
+    "pair_idx": 3,
+    "role": "user",
+    "content": "I'm not ready to register yet. Can I just browse the courses for now?",
+    "label": "ontopic",
+    "type": "NA",
+    "difficulty": "NA",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 480,
+    "pair_idx": 4,
+    "role": "user",
+    "content": "How do I contact technical support if I encounter any issues with the course?",
+    "label": "ontopic",
+    "type": "NA",
+    "difficulty": "NA",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 481,
+    "pair_idx": 0,
+    "role": "user",
+    "content": "Who founded the first online learning platform?",
+    "label": "distractor",
+    "type": "irrelevant",
+    "difficulty": "easy",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 481,
+    "pair_idx": 1,
+    "role": "user",
+    "content": "What was the first data analysis software ever created?",
+    "label": "distractor",
+    "type": "irrelevant",
+    "difficulty": "easy",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 481,
+    "pair_idx": 2,
+    "role": "user",
+    "content": "Who invented the concept of coupons?",
+    "label": "distractor",
+    "type": "irrelevant",
+    "difficulty": "easy",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 481,
+    "pair_idx": 3,
+    "role": "user",
+    "content": "What is the history behind the US dollar?",
+    "label": "distractor",
+    "type": "irrelevant",
+    "difficulty": "easy",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 481,
+    "pair_idx": 4,
+    "role": "user",
+    "content": "What was the first email ever sent?",
+    "label": "distractor",
+    "type": "irrelevant",
+    "difficulty": "easy",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 482,
+    "pair_idx": 0,
+    "role": "user",
+    "content": "How do I update my emergency contact information?",
+    "label": "ontopic",
+    "type": "NA",
+    "difficulty": "NA",
+    "fooled_llm": "no",
+    "notes": ""
+  }
+]
