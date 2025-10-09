@@ -1,0 +1,90 @@
+[
+  {
+    "entry_idx": 600,
+    "pair_idx": 0,
+    "role": "user",
+    "content": "I'm also curious, how does the government decide on the types of taxes to impose?",
+    "label": "distractor",
+    "type": "adversarial",
+    "difficulty": "medium",
+    "fooled_llm": "no",
+    "notes": "None"
+  },
+  {
+    "entry_idx": 600,
+    "pair_idx": 1,
+    "role": "user",
+    "content": "By the way, have you heard about any proposed changes to business tax laws lately?",
+    "label": "distractor",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "fooled_llm": "no",
+    "notes": "None"
+  },
+  {
+    "entry_idx": 600,
+    "pair_idx": 2,
+    "role": "user",
+    "content": "I've always wondered, how does the IRS determine the deadlines for filing taxes?",
+    "label": "on-topic",
+    "type": "NA",
+    "difficulty": "NA",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 600,
+    "pair_idx": 3,
+    "role": "user",
+    "content": "Can you tell me how the social security tax system works in the US?",
+    "label": "distractor",
+    "type": "irrelevant",
+    "difficulty": "hard",
+    "fooled_llm": "no",
+    "notes": "None"
+  },
+  {
+    "entry_idx": 600,
+    "pair_idx": 4,
+    "role": "user",
+    "content": "How does the process of tax auditing work?",
+    "label": "on-topic",
+    "type": "NA",
+    "difficulty": "NA",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 601,
+    "pair_idx": 0,
+    "role": "user",
+    "content": "Do you know when the first income tax was implemented in the US?",
+    "label": "distractor",
+    "type": "adversarial",
+    "difficulty": "easy",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 601,
+    "pair_idx": 1,
+    "role": "user",
+    "content": "How many types of business entities are there in total?",
+    "label": "on-topic",
+    "type": "NA",
+    "difficulty": "NA",
+    "fooled_llm": "no",
+    "notes": ""
+  },
+  {
+    "entry_idx": 601,
+    "pair_idx": 2,
+    "role": "user",
+    "content": "Is it possible to file taxes for a sole proprietorship without using Schedule C?",
+    "label": "on-topic",
+    "type": "NA",
+    "difficulty": "NA",
+    "fooled_llm": "no",
+    "notes": ""
+  }
+]
