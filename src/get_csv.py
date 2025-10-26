@@ -26,7 +26,7 @@ KEEP_COLS = [
 full = concatenate_datasets([ds["train"], ds["test"]])
 
 # Down-select to desired domains
-keep_domains = {"insurance", "real estate", "travel"}
+keep_domains = {"computer troubleshooting", "education", "taxes"}
 full = full.filter(lambda ex: ex.get("domain", "").strip().lower() in keep_domains)
 
 # Export one CSV per domain
