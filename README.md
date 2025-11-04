@@ -1,5 +1,4 @@
-# Dataset Annotation and Jailbreak Distractor Project  
-Project Journal  
+# Encouraging LLMs to Stay on Topic Project Journal   
 Tristan Timpers, Tex McGinley, Caden Kamminga
 
 ## Meeting 1 — Project Introduction and Setup  
