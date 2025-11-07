@@ -46,6 +46,7 @@ This dataset is ready for use in **future research**.
 
 ## Collaboration with Group 7
 The file **`group7_combined_data_annotated.csv`** contains distractors from **Group 7** that we identified as violating the *system instruction span*.
+This file contains 20 distractors, all pertaining to a unique conversation. 
 
 ---
 
