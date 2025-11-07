@@ -5,7 +5,7 @@ The app_v0.py was an initial draft of our app which after meeting with the other
 
 A progress report from Week 7 of our work can be found in the NLP update 20_10_25.pdf.   
 The Group 10 - Distractors - all rows.csv file is a complete dataset annotated by us, ready for future research. 
-In total, we annotated 83 conversations across 3 domains: computer troubleshooting (37), taxes (15), and education (31).
+In total, we annotated 83 conversations across 3 domains: computer troubleshooting (37), taxes (15), and education (31).  
 The group7_combined_data_annotated .csv file is the distractors from Group 7 that we identified the violated system instruction span.
 
 ## Meeting 1 — Project Introduction and Setup  
