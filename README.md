@@ -28,15 +28,15 @@ A detailed progress update from **Week 7** of our work can be found in:
 
 ## Annotated Dataset
 The file **`Group 10 - Distractors - all rows.csv`** contains the complete annotated dataset prepared by our group.  
-It includes **83 conversations** across three domains:
+It includes **61 conversations** across three domains:
 
-- **Computer Troubleshooting:** 37  
+- **Computer Troubleshooting:** 15  
 - **Taxes:** 15  
 - **Education:** 31  
 
-In total, we created **179 distractors** distributed as follows:
+In total, we created **133 distractors** distributed as follows:
 
-- **Computer Troubleshooting:** 86  
+- **Computer Troubleshooting:** 40  
 - **Taxes:** 27  
 - **Education:** 66  
 
