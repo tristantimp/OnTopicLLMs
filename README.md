@@ -117,4 +117,19 @@ This file contains 20 distractors, all pertaining to a unique conversation.
 
 **Action Items:**  
 - Update internal documentation with the common annotation guidelines.  
-- Continue distractor creation following the shared process.  
+- Continue distractor creation following the shared process.
+
+--- 
+
+## Meeting 6 - Final Push
+**Date:** 03-11-2025
+**Agenda:** Decide with other project groups on final push
+
+**Discussion:**
+- Selected **20 random distractors** from our dataset to share with other groups.  
+- Each group was assigned another group’s distractors to annotate.  
+- The goal was to identify the *system instruction span* and check for consistency across annotations.  
+
+**Action Items:**  
+- Finalize and clean all annotated data.  
+
