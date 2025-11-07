@@ -1,7 +1,11 @@
 # Encouraging LLMs to Stay on Topic Project Journal   
 Tristan Timpers, Tex McGinley, Caden Kamminga
 
-The app_v0.py was an initial draft of our app which after meeting with the other groups we decided not to use. The final version of the app made by Group 7 can be found here https://github.com/Lucky7NLP/topic-following .
+The app_v0.py was an initial draft of our app which after meeting with the other groups we decided not to use. The final version of the app made by Group 7 can be found here https://github.com/Lucky7NLP/topic-following .  
+
+A progress report from Week 7 of our work can be found in the NLP update 20_10_25.pdf.   
+The Group 10 - Distractors - all rows.csv file is a complete dataset annotated by us, ready for future research. 
+The group7_combined_data_annotated .csv file is the distractors from Group 7 that we identified the violated system instruction span.
 
 ## Meeting 1 — Project Introduction and Setup  
 **Date:** 01-10-2025  
