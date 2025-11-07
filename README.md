@@ -1,7 +1,7 @@
 # Encouraging LLMs to Stay on Topic Project Journal   
 Tristan Timpers, Tex McGinley, Caden Kamminga
 
-The app_v0.py was an initial draft of our app which after meeting with the other groups we decided not to use. The final version of the app made by Group 7 can be found {here} (https://github.com/Lucky7NLP/topic-following) .
+The app_v0.py was an initial draft of our app which after meeting with the other groups we decided not to use. The final version of the app made by Group 7 can be found {here}(https://github.com/Lucky7NLP/topic-following) .
 
 ## Meeting 1 — Project Introduction and Setup  
 **Date:** 01-10-2025  
