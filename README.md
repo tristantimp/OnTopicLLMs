@@ -1,13 +1,52 @@
-# Encouraging LLMs to Stay on Topic Project Journal   
-Group 10: Tristan Timpers, Tex McGinley, Caden Kamminga
+# Encouraging LLMs to Stay on Topic — Project Journal
 
-The app_v0.py was an initial draft of our app which after meeting with the other groups we decided not to use. The final version of the app made by Group 7 can be found here https://github.com/Lucky7NLP/topic-following .  
+**Group 10:**  
+Tristan Timpers, Tex McGinley, Caden Kamminga  
 
-A progress report from Week 7 of our work can be found in the NLP update 20_10_25.pdf.   
-The Group 10 - Distractors - all rows.csv file is a complete dataset annotated by us, ready for future research. 
-In total, we annotated 83 conversations across 3 domains: computer troubleshooting (37), taxes (15), and education (31).  
-Additionally, we created a total of 179 distractors: computer troubleshooting (86), taxes (27), and education (66).  
-The group7_combined_data_annotated .csv file is the distractors from Group 7 that we identified the violated system instruction span.
+---
+
+## Overview
+This repository documents the progress and outcomes of **Group 10’s** work on the *Encouraging LLMs to Stay on Topic* project.
+
+---
+
+## App Versions
+- **`app_v0.py`**  
+  This was the initial draft of our application. After discussions with other groups, we decided not to proceed with this version.
+
+- **Final Version**  
+  The final version of the app, developed by **Group 7**, can be found here:  
+  👉 [Lucky7NLP/topic-following](https://github.com/Lucky7NLP/topic-following)
+
+---
+
+## Progress Report
+A detailed progress update from **Week 7** of our work can be found in:  
+**`NLP update 20_10_25.pdf`**
+
+---
+
+## Annotated Dataset
+The file **`Group 10 - Distractors - all rows.csv`** contains the complete annotated dataset prepared by our group.  
+It includes **83 conversations** across three domains:
+
+- **Computer Troubleshooting:** 37  
+- **Taxes:** 15  
+- **Education:** 31  
+
+In total, we created **179 distractors** distributed as follows:
+
+- **Computer Troubleshooting:** 86  
+- **Taxes:** 27  
+- **Education:** 66  
+
+This dataset is ready for use in **future research**.
+
+---
+
+## Collaboration with Group 7
+The file **`group7_combined_data_annotated.csv`** contains distractors from **Group 7** that we identified as violating the *system instruction span*.
+oup7_combined_data_annotated .csv file is the distractors from Group 7 that we identified the violated system instruction span.
 
 ## Meeting 1 — Project Introduction and Setup  
 **Date:** 01-10-2025  
